@@ -1,3 +1,3 @@
-## Data Science Project Template
+## Football Match Predictor
 
-You can use this template to structure your Python data science projects. It is based on [Cookie Cutter Data Science](https://drivendata.github.io/cookiecutter-data-science/).
+App used to predict English Premier League matches.
